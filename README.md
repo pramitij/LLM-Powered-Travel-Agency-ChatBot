@@ -16,7 +16,7 @@ To run Cruise-Finder on your local machine, follow these steps:
 
 1. **Clone the Repository**:
     ```
-    git clone [URL of your GitHub repo]
+    git clone [https://github.com/pramitij/LLM-Powered-Travel-Agency-ChatBot.git]
     ```
 2. **Install Dependencies**:
     ```
