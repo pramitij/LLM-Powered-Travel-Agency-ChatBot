@@ -1,8 +1,9 @@
-# LLM-Powered-Travel-Agency-ChatBot
-# Cruise-Finder: Travel Agency ChatBot
+
+# Cruise-Finder: LLM Powered Travel Agency ChatBot
 
 ## Description
 Cruise-Finder is an innovative chatbot designed to assist users in finding the best cruise packages and information for planning their next adventure. Utilizing advanced natural language processing technologies, this chatbot offers insightful recommendations and answers queries in real-time, enhancing the customer experience for travel planning.
+Check out the Presentation for a deeper-dive into the tech stack.
 
 ## Features
 - **Intelligent Conversations**: Powered by OpenAI's GPT-4, the chatbot engages in natural, human-like conversations.
@@ -19,7 +20,7 @@ To run Cruise-Finder on your local machine, follow these steps:
     ```
 2. **Install Dependencies**:
     ```
-    pip install -r requirements.txt
+    pip install streamlit openai pandas langchain
     ```
 3. **Set Environment Variables**:
     - Set `OPENAI_API_KEY` with your OpenAI key for GPT-4 access.
