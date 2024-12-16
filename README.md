@@ -5,6 +5,10 @@
 Cruise-Finder is an innovative chatbot designed to assist users in finding the best cruise packages and information for planning their next adventure. Utilizing advanced natural language processing technologies, this chatbot offers insightful recommendations and answers queries in real-time, enhancing the customer experience for travel planning.
 Check out the Presentation for a deeper-dive into the tech stack.
 
+## Contributors
+- Pramithi Jagdish
+- Aswin Shriram Thiagarajan
+
 ## Features
 - **Intelligent Conversations**: Powered by OpenAI's GPT-4, the chatbot engages in natural, human-like conversations.
 - **Context-Aware Responses**: Integrates RAG (Retrieval-Augmented Generation) for contextually relevant answers.
